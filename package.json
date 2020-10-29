@@ -1,0 +1,22 @@
+{
+  "name": "control-sheet",
+  "version": "1.0.0",
+  "description": "Sistema de controle para o Departamento Pessoal: Módulos de Cadastro e Faltas. Utilizando as tecnologias do Google: Planilhas, Apps Script e Data Studio.",
+  "main": "Faltas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarengando/DP-Germar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarengando/DP-Germar/issues"
+  },
+  "homepage": "https://github.com/alvarengando/DP-Germar#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.17"
+  }
+}
